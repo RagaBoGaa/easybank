@@ -406,11 +406,6 @@ footer .right-side span {
   display: block;
 }
 
-     .attribution {
-      
-        padding-block-start: 2rem;
-      }
-
 /* @@@@@@@@@@@@@@@@@@@@@ Media @@@@@@@@@@@@@@@@@@@@@ */
 @media (max-width: 767px) {
   header .logo {
